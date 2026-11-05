@@ -44,4 +44,4 @@ This project helped me improve my data analysis skills and understand how real-w
 
 ## Author
 
-Alok Jangid
+Aryan Singh
